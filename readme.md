@@ -1,5 +1,5 @@
 # Prosper Loan Data
-## by Junwon Seo
+## by Paul Seo
 
 
 ## Dataset
